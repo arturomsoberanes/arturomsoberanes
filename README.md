@@ -9,7 +9,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://dev.to/arturosob" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="arturosob" height="30" width="40" /></a>
+<a href="https://dev.to/arturomsoberanes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="arturosob" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/arturomsoberanes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="arturomsoberanes" height="30" width="40" /></a>
 <a href="https://instagram.com/arturo_soberanes_de_castillo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="arturo_soberanes_de_castillo" height="30" width="40" /></a>
 </p>
